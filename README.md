@@ -31,8 +31,8 @@ Self-directed and driven technology professional with comprehensive accomplishme
 ## Education
 
 **🔹 Computer Science | TOKYO INSTITUTE OF TECHNOLOGY**\
-&ensp;&ensp;&nbsp;&nbsp;2008 – 2012
-Bachelor's degree
+&ensp;&ensp;&nbsp;&nbsp;Bachelor's degree&nbsp;&nbsp;2008 – 2012
+
 
 ## Skills
 <div align="center">
