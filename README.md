@@ -5,7 +5,7 @@
 </h1>
 
 <p>
-Highly professional blockchain developer with comprehensive accomplishments applying high-security smart contracts to ensure success and achieve goals. Strong experience in EVM-compatible smart contracts development. Demonstrated success developing and seamlessly executing smart contracts in complex DeFi and DEX structures. Recognized for maximizing performance by implementing appropriate project management through analysis of details to ensure quality control and an understanding of emerging technology. Expertise includes developing and auditing blockchain smart contracts with various Blockchain networks including Ethereum, Binance Smart Chain, Polygon, and Avalanche.
+Highly professional blockchain developer with comprehensive accomplishments applying high-security smart contracts to ensure success and achieve goals. Strong experience in EVM-compatible smart contracts development. Demonstrated success developing and seamlessly executing smart contracts in complex DeFi and DEX structures. Recognized for maximizing performance by implementing appropriate project management through analysis of details to ensure quality control and an understanding of emerging technology. Expertise includes developing and auditing blockchain smart contracts with various Blockchain networks including Ethereum, Binance Smart Chain and Polygon.
 <br><br>
 </p>
 
