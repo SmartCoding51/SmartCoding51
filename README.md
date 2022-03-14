@@ -59,8 +59,8 @@ Highly professional blockchain developer with comprehensive accomplishments appl
   <div style="display: flex; justify-content: space-between;">
     <img align="left" src="https://img.shields.io/badge/chainlink-375BD2?style=for-the-badge&logo=chainlink&logoColor=white" />
     <img align="left" src="https://img.shields.io/badge/-NFT-green?style=for-the-badge" />
-    <img align="left" src="https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324" />
-    <img align="left" src="https://img.shields.io/badge/-Solana-%237E7FC8?style=for-the-badge" />
+    <img align="left" src="https://img.shields.io/badge/-Avalanche-green?style=for-the-badge" />
+    <img align="left" src="https://img.shields.io/badge/-BSC-%237E7FC8?style=for-the-badge" />
     <img align="left" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
     <img align="left" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   </div>
