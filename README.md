@@ -1,27 +1,27 @@
 
 
 <h1 align='center'>
-  Senior Solidity Developer, based in Tokyo
+  Senior Blockchain Engineer, based in Tokyo
 </h1>
 
 <p>
-Highly professional blockchain developer with comprehensive accomplishments applying high-security smart contracts to ensure success and achieve goals. Strong experience in EVM-compatible smart contracts development. Demonstrated success developing and seamlessly executing smart contracts in complex DeFi and DEX structures. Recognized for maximizing performance by implementing appropriate project management through analysis of details to ensure quality control and an understanding of emerging technology. Expertise includes developing and auditing blockchain smart contracts with various Blockchain networks including Ethereum, Binance Smart Chain and Polygon.
+Highly professional blockchain engineer with comprehensive accomplishments applying high-security smart contracts to ensure success and achieve goals. Strong experience in EVM-compatible smart contracts development using Solidity. Demonstrated success developing and seamlessly executing smart contracts in complex DeFi and NFT structures. Recognized for maximizing performance by implementing appropriate project management through analysis of details to ensure quality control and an understanding of emerging technology. Expertise includes developing and auditing blockchain smart contracts with various Blockchain networks including Ethereum, Binance Smart Chain, Polygon and Avalanche.
 <br><br>
 </p>
 
 <p align='center'>
   
-  <a href="https://www.linkedin.com/in/kei-nakano-84106b21a/">
+  <a href="https://www.linkedin.com/in/kei-nakano-84106b21a/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="https://t.me/keinakano">
+  <a href="https://t.me/keinakano" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />        
   </a>&nbsp;&nbsp;
   
 </p>
 
 <p align='center'>
-  Do you like my open source projects? Your stars would be very helpful for me, please <a href='https://stars.github.com/nominate/'>nominate me to Github Stars ⭐</a>
+  Do you like my open source projects? Your stars would be very helpful for me, please <a href='https://stars.github.com/nominate/' target="_blank">nominate me to Github Stars ⭐</a>
 </p>
 
 <p align='center'>
